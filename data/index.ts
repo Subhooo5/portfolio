@@ -93,6 +93,7 @@ export const projects = [
     img: "/p2.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/pu.png", "/vite.png"],
     link: "https://hirelytics-eight.vercel.app/",
+    titleLink: "https://hirelytics-eight.vercel.app/"
   },
   {
     id: 2,
@@ -101,6 +102,7 @@ export const projects = [
     img: "/p1.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/pgsql.png", "/dr.png"],
     link: "https://droply-woad.vercel.app/",
+    titleLink: "https://droply-woad.vercel.app/"
   },
   {
     id: 3,
@@ -109,6 +111,7 @@ export const projects = [
     img: "/p3.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
     link: "https://log-it-pi.vercel.app/",
+    titleLink: "https://log-it-pi.vercel.app/"
   },
 ];
 
