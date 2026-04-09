@@ -97,7 +97,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Droply - A Safe & Secure Cloud File Storage",
+    title: "Droply",
     des: "Modern cloud storage solution designed to simplify file management with speed, privacy, and accessibility.",
     img: "/p1.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/pgsql.png", "/dr.png"],
@@ -106,12 +106,12 @@ export const projects = [
   },
   {
     id: 3,
-    title: "LogIT",
-    des: "A note-taking web app that lets users create, edit, and manage codes or text.",
+    title: "TaskFlow",
+    des: "A modern, intuitive application designed to streamline your document processing and task management workflows.",
     img: "/p3.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "https://log-it-pi.vercel.app/",
-    titleLink: "https://log-it-pi.vercel.app/"
+    link: "https://taskflow2.vercel.app/",
+    titleLink: "https://taskflow2.vercel.app/"
   },
 ];
 
