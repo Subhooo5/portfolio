@@ -2,6 +2,7 @@ import React from "react";
 import BallCanvas from "./ui/Ball";
 import SectionWrapper from "./ui/SectionWrapper";
 import { technologies } from "../data/index";
+
 const Tech = () => {
   return (
     <section id = "skills">
